@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martialhossou.github.io/moi/sitemap.xml
